@@ -1,0 +1,26 @@
+# Virtual Environment
+venv/
+env/
+Lib/
+Scripts/
+Include/
+etc/
+share/
+pyvenv.cfg
+
+# Streamlit
+.streamlit/
+
+# Database
+*.db
+*.sqlite3
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+dataset/
+*.npy
